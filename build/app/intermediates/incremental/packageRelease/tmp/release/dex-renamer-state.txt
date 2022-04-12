@@ -1,0 +1,4 @@
+#Tue Apr 12 15:26:25 IST 2022
+base.0=/Users/aditya/Projects/bvrit/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

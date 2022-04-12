@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">932573163437-1nl0b4d15g3fq7p6o1cgiee8edr35as9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">932573163437</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-yjLq8IftiFLk1V-N19VCRqyYE4Tq1Yg</string>
+    <string name="google_app_id" translatable="false">1:932573163437:android:7aabdb9405b3c1ce193b24</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-yjLq8IftiFLk1V-N19VCRqyYE4Tq1Yg</string>
+    <string name="google_storage_bucket" translatable="false">bvrit-permissions.appspot.com</string>
+    <string name="project_id" translatable="false">bvrit-permissions</string>
+</resources>
